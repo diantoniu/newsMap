@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "coursework-1523805686178",
+  "private_key_id": "17f2090d56ce1eb12acdb92a23f5e8cfe3606424",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6InL69zSHPkZZ\n0YCPabz/qe+LH7ZCkoKlF8BLz7bYU90OkQZpc8aEVEpvoL9KlBmYy17o/E8mcoi8\nHQfSfdPeaahJ+GlKdTQw+s7os6B75uN1S6G39mDOOJV2+2mivuKhTpbk1z4PD/zN\nNTCRDItjXCEexomVISexDP+V3sqzCLUt/TOnAuhxew21kEyoKJq7YKgyS5NKV6+q\nYx8BEV0+VqlHf7zXWRBSzH8KmspAcN0jI//wQ3RBvilJ7xrD9FOsnqE8rMIK8M3r\nKm4ABIARj46CKLJdVao51NQYJ6iobPX3qwpWUySWdXRYvVhX2fH5m33dW10dgeyO\nLqxCha2FAgMBAAECggEAEIFJgijgMYs7dcTMCkDYD4ZOxXQUbKbNNZJ7l2gIe0+Z\nxIGQ+KeELOvEhfgnvkHlBdV9dFobMqTpVwpD9/hMYeaAk76Wp5GTr9wtnhjU3D0c\nYk7zPNAjbrs5wF6Jfsg/vwoBpgfSwEcspY2tNs95SgrmAkfx9JVcuFMXaX9jU1Na\nur/M/Dg1eHkXnff5nnVeOEQNpX41b8uV8A3MDt7cHJiEv0RWpiQDps8hwGfgoqp/\n8V7xHvbUq11jI4VtTtdSwGOIiD7yM0giW1SYtNS+eGWGbZGpQ7lo1SR+IyWP7X6I\nTDHj7bawWw2lJk+RZ5h4xPcVa5dTBl3cLGZjj/4PqQKBgQDztWdspGY2w5ON/H7Y\n8rgM87xHUQdtx0zK4SxKaBTPzarT0y6I0AUhsZJ0xOPKnNIfG1njHi5dINpbE7kq\npCXVoue3Ys8jPLecVDmGWUxPTpOKonvGGjkJBtrthL7oicw/D/3aMDCQponPNXFP\nh2PeiqyTZu+pBfldH65/xlOIBwKBgQDDhbBs/yceXocFefH1WVPra7znjUBCJTnO\nVd5mFg2o+1kaoA6SOEFDaHQTZZDkVRlbGH1/2nRRNaaFmokwVwyYEhJiH1B856uv\nivJBEoYenuu9BP+HB1kLVvtIiJ1yqMiTbQci82s7I9fIjrj49o6Ne1U++6jSAIdc\nnRy00tGDEwKBgQDOyjlE5UZZ55+3le0oNuPXEaXLucSc8MSHTYNga2plXTU7YfEV\nY7VG/r6v2DUVQfXFMVcXMQ/UM8E0EMtIlFoKKZ2GbRAn7Sg7PPhGuFTY4mqs8uwl\njzCgKTHw4nd/JxWo2O/kiIlc5AMBUG6iNdaXCYIf3PM0r34E95IAl49fVwKBgH0+\nGbD4EBrH+j1ry62ZtsPKk4rPVCYKqmidYISMA9wGhSEk/bB0EHoZYqE6IgHg8QkF\nOv629GNAtpZGUzJ/0DVo/hWUcX5Q+AzOODeuofLjYaYGmZfpAQTehsADordbnn+x\nCy08N6f+Ya66nYn8hXvjUMuzcIR0ikCs80Jw+Hu5AoGBAOyb09JsF2cYI1p+MEVf\nPc46RpccHkS9Xx+lVXlDLI5iOi4qLar/+WdLtRQQErx1HPQMxgxsfctYgjW6HTrK\ne6ENQRS4FKMe+JR1nW9vBh81rW3azUKgkooVa1MGUIL1EtLYfkFq/HXuV/hFbNZx\ngxWedyIGtEO/iM02lMAahkME\n-----END PRIVATE KEY-----\n",
+  "client_email": "starting-account-8z5wmrgfrvr8@coursework-1523805686178.iam.gserviceaccount.com",
+  "client_id": "102838455760928918134",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/starting-account-8z5wmrgfrvr8%40coursework-1523805686178.iam.gserviceaccount.com"
+}
